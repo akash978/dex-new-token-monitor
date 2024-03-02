@@ -1,0 +1,32 @@
+{
+  "recipient": "0x0765B8b9F6e6474dc64e4b05395C0517244135B1",
+  "privateKey": "",
+  "WBNB":       "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "factory":    "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+  "router":     "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+  "mainnetURL": "https://bsc-dataseed.binance.org/",
+
+  "verifySet":   true, 
+  "mintSet":     true, 
+  "renounceSet": true,
+  "liquditySet": true,
+  "honeypotSet": true,
+  "taxSet":      true ,
+
+  "buyMode" : "FIXED_MODE",
+ 
+  "AMOUNT_OF_WBNB": 0.002,
+  "PERCENT_OF_WBNB" : 0.001,
+  "Slippage": 95,
+  "profit": 200,
+
+  "gasPrice": 5,
+  "gasLimit": 345684,
+  "MaxHoldTime" : 3600,
+  "captureTimeInverval" : 30000,
+  "traficInterval" : 60000,
+  "buyTaxLimit" : 8,
+  "sellTaxLimit" : 8,
+  "logo" : "\n\n██████╗░░██████╗░█████╗░  ░██████╗███╗░░██╗██╗██████╗░███████╗██████╗░  ██████╗░░█████╗░████████╗\n██╔══██╗██╔════╝██╔══██╗  ██╔════╝████╗░██║██║██╔══██╗██╔════╝██╔══██╗  ██╔══██╗██╔══██╗╚══██╔══╝\n██████╦╝╚█████╗░██║░░╚═╝  ╚█████╗░██╔██╗██║██║██████╔╝█████╗░░██████╔╝  ██████╦╝██║░░██║░░░██║░░░\n██╔══██╗░╚═══██╗██║░░██╗  ░╚═══██╗██║╚████║██║██╔═══╝░██╔══╝░░██╔══██╗  ██╔══██╗██║░░██║░░░██║░░░\n██████╦╝██████╔╝╚█████╔╝  ██████╔╝██║░╚███║██║██║░░░░░███████╗██║░░██║  ██████╦╝╚█████╔╝░░░██║░░░\n╚═════╝░╚═════╝░░╚════╝░  ╚═════╝░╚═╝░░╚══╝╚═╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝  ╚═════╝░░╚════╝░░░░╚═╝░░░\n\n\nListening for new Create pair & add liqudity token..."
+}
+ 
